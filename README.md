@@ -1,7 +1,9 @@
 # Sydney Train Usage & Rent Dashboard (Shiny)
 
 This project investigates **Sydney station footfall** and related information to provide an overview of how busy each station is.  
-It is designed as a **Shiny dashboard** for interactive exploration and decision support (e.g., finding convenient places to live, understanding station demand).
+It is designed as a **Shiny dashboard** for interactive exploration and decision support (e.g., investigating the need for
+station expansion or facilities installment, finding convenient places to live, understanding station demand).
+🔗 **Live Demo:** https://zqy-lyra-zhang.shinyapps.io/my_app/
 
 ---
 
